@@ -31,4 +31,4 @@ I released the original mod as a _patch_ meaning that it was standalone and not 
 
 ## Future Plans
 
-We plan on continuing to update MultiPlayer, even after the official release of multiplayer as 
+We plan on continuing to update MultiPlayer, even after the official release of multiplayer as I'm sure there will be features that will not be implemented into official multiplayer but people will still want to see.
