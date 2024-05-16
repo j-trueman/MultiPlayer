@@ -21,13 +21,15 @@ Although based off of my (Josh's) [original](https://github.com/j-trueman/Bucksh
 
 The biggest, and arguably best, improvement over the original multiplayer mod is that we now have a dedicated server for hosting matches! No longer do you have to faff around with port forwarding, ip addresses and the possiblity of accidentally doxxing yourself. Now, you can simply; [create an account](#creating-an-account), open the CRT, and peruse the server to find your next opponent (if they're online, of course).
 
-![coolgif](https://github.com/j-trueman/MultiPlayer/assets/82833724/46506dfd-607c-4129-9804-897fdd022ce3)
+## Creating An Account
+
+Before you can play Buckshot Roulette with your friends, you will need to create a _MultiPlayer account_! This is very simple. Once you've entered the game, go to the CRT (it will always appear when you have MultiPlayer installed) and you will be greeted with a login page. Simply put in a username and hit enter or the window cycle button (the one next to the exit button). If your chosen username is not already in use then your new account will be created and you will recieve your _private authentication key_. This key is located at `C:\path\to\buckshot\roulette\privatekey.key` and is **very important** to authenticating your account. 
+
+**NOTE: BE CAREFUL, IF YOU CREATE A NEW ACCOUNT THEN YOUR PRIVATE KEY WILL BE OVERWRITTEN AND YOU WILL LOSE ACCESS TO YOUR ORIGINAL ACCOUNT**
 
 ## Compatibility
 
 I released the original mod as a _patch_ meaning that it was standalone and not able to be used with [BRML](https://github.com/AGO061/BuckshotRouletteModLoader/) (which Michael also contributes to. He's so talented 😊). _MultiPlayer_, on the other hand, has been built from the ground up to be compatible with BRML, so there's no need to install a whole new version of the game just to use the mod! As for compatibility with other mods, _MultiPlayer_ is likely compatible with any mods that do not affect the gameplay (So, things like [EmK530's NativeResolution](https://github.com/EmK530/BRMods/tree/main/BRML/NativeResolution) should be okay. However, we haven't tested compatibility with _any_ mods as of yet.) As for mods like [Starpanda's ChallengePack](https://github.com/StarPandaBeg/ChallengePack), MultiPlayer_ is not currently compatible with such mods but _may_ be in the future. This would, however, be a _very big_ and _very manual_ undertaking.
-
-<img src="https://github.com/j-trueman/MultiPlayer/assets/82833724/51a7aab9-37d6-449e-b898-9716a9d245d8" width="500">
 
 ## Future Plans
 
