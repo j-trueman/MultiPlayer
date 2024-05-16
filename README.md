@@ -10,13 +10,6 @@ We know many of you have been anxiously awaiting the release of official multipl
 
 Although based off of my (Josh's) [original](https://github.com/j-trueman/BuckshotRouletteMultiplayer) multiplayer mod for the itch.io version of the game, _MultiPlayer_ is better in almost every way. Let's take a look at a couple of things.
 
----
-
-### Outline:
-  - [Matchmaking](#matchmaking)
-  - [Compatibility](#compatibility)
-  - [What Next?](#future-plans)
-
 ## Matchmaking
 
 The biggest, and arguably best, improvement over the original multiplayer mod is that we now have a dedicated server for hosting matches! No longer do you have to faff around with port forwarding, ip addresses and the possiblity of accidentally doxxing yourself. Now, you can simply; [create an account](#creating-an-account), open the CRT, and peruse the server to find your next opponent (if they're online, of course).
